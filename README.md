@@ -21,7 +21,7 @@
 
 # Testing Javascript
 
-> Project to practice testing in JS enviroment using Jest.
+> Project to practice testing in JS environment using Jest.
 
 
 Additional description about the project and its features.
