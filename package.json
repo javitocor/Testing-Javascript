@@ -1,0 +1,25 @@
+{
+  "name": "Testing-Javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javitocor/Testing-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javitocor/Testing-Javascript/issues"
+  },
+  "homepage": "https://github.com/javitocor/Testing-Javascript#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "jest": "^26.1.0"
+  }
+}
