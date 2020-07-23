@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/javitocor/Testing-Javascript/issues"
   },
-  "homepage": "https://github.com/javitocor/Testing-Javascript#readme"
+  "homepage": "https://github.com/javitocor/Testing-Javascript#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "jest": "^26.1.0"
+  }
 }
