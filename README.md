@@ -38,6 +38,12 @@ Additional description about the project and its features.
 - Get installed NPM
 - Get installed JEST
 
+### Setup
+
+- Clone the repository on your local machine
+- Cd into the folder
+- Run `npm install`
+
 ### Run tests
 
 - Run ```npm test``` on the root directory to run all the tests.
@@ -61,7 +67,7 @@ Additional description about the project and its features.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kubilaycaglayan/todo-list/issues).
+Feel free to check the [issues page](https://github.com/javitocor/Testing-Javascript/issues).
 
 ## Show your support
 
@@ -79,11 +85,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kubilaycaglayan/todo-list.svg?style=flat-square
-[contributors-url]: https://github.com/kubilaycaglayan/todo-list/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kubilaycaglayan/todo-list.svg?style=flat-square
-[forks-url]: https://github.com/kubilaycaglayan/todo-list/network/members
-[stars-shield]: https://img.shields.io/github/stars/kubilaycaglayan/todo-list.svg?style=flat-square
-[stars-url]: https://github.com/kubilaycaglayan/todo-list/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kubilaycaglayan/todo-list.svg?style=flat-square
-[issues-url]: https://github.com/kubilaycaglayan/todo-list/issues
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Testing-Javascript.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/Testing-Javascript/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/Testing-Javascript.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/Testing-Javascript/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/Testing-Javascript.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/Testing-Javascript/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/Testing-Javascript.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/Testing-Javascript/issues
